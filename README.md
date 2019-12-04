@@ -1,4 +1,4 @@
-# todolist
+# Todo List
 
 ![](img/homepage.png)
 
